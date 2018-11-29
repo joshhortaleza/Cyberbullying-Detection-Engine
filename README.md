@@ -4,4 +4,4 @@ A Reddit Bot that classifies comments as cyberbullying using a Naive Baynes appr
 
 The dataset used to train the model has around 100K tweets, of which 75% are labelled regular and 25% are labelled cyberbullying.
 
-This project is my first foray into Machine Learning, and could not have been possible without the guidance of uwcoffeeandcode. Inspired indirectly by the advice of Tom LaMantia. Thank you both. I hope to stand on your shoulders with great gusto. 
+
