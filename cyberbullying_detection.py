@@ -160,8 +160,8 @@ class CyberbullyingDetectionEngine:
  
 if __name__ == '__main__':
     reddit = praw.Reddit(
-        client_id = 'KH0aKoEdj52pOg',  
-        client_secret = 'DR_9pROSy572eBmm7GN6s0O11qk',
+        client_id = 'SECRET',  
+        client_secret = 'SECRET',
         user_agent = 'script_name by /u/username'
     )
  
